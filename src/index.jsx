@@ -5,5 +5,5 @@ render(
   <div>
     hello world
   </div> ,
-  document.getElementById('root')
+  document.getElementById('app')
 );
