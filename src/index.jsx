@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { render } from 'react-dom';
+import 'bulma/css/bulma.min.css';
 
 render(
-  <div>
-    hello world
-  </div> ,
+  <>
+  
+  </>,
   document.getElementById('app')
 );
