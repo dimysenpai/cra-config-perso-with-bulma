@@ -1,0 +1,2 @@
+(this["webpackJsonpcra-config-perso-with-bulma"]=this["webpackJsonpcra-config-perso-with-bulma"]||[]).push([[0],{4:function(e,i,s){"use strict";s.r(i);s(0);var t=s(2),c=(s(9),s(3));Object(t.render)(Object(c.jsx)("div",{className:"title is-1 is-primary",children:"hello world !!!"}),document.getElementById("app"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.9f83f17d.chunk.js.map

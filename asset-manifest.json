@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/cra-config-perso-with-bulma/static/js/main.9f83f17d.chunk.js",
+    "main.js.map": "/cra-config-perso-with-bulma/static/js/main.9f83f17d.chunk.js.map",
+    "runtime-main.js": "/cra-config-perso-with-bulma/static/js/runtime-main.3766027a.js",
+    "runtime-main.js.map": "/cra-config-perso-with-bulma/static/js/runtime-main.3766027a.js.map",
+    "static/css/2.f4c5cc59.chunk.css": "/cra-config-perso-with-bulma/static/css/2.f4c5cc59.chunk.css",
+    "static/js/2.ce0eaf0b.chunk.js": "/cra-config-perso-with-bulma/static/js/2.ce0eaf0b.chunk.js",
+    "static/js/2.ce0eaf0b.chunk.js.map": "/cra-config-perso-with-bulma/static/js/2.ce0eaf0b.chunk.js.map",
+    "index.html": "/cra-config-perso-with-bulma/index.html",
+    "static/css/2.f4c5cc59.chunk.css.map": "/cra-config-perso-with-bulma/static/css/2.f4c5cc59.chunk.css.map",
+    "static/js/2.ce0eaf0b.chunk.js.LICENSE.txt": "/cra-config-perso-with-bulma/static/js/2.ce0eaf0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3766027a.js",
+    "static/css/2.f4c5cc59.chunk.css",
+    "static/js/2.ce0eaf0b.chunk.js",
+    "static/js/main.9f83f17d.chunk.js"
+  ]
+}
